@@ -1,0 +1,12 @@
+.sidebar-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 3rem;
+
+  padding: 0 1rem;
+
+  cursor: pointer;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 1rem 1rem -1rem inset,
+    rgba(0, 0, 0, 0.3) 0px 1rem 1rem -1rem inset; */
+}
